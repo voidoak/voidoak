@@ -1,9 +1,9 @@
 ## void* oaken_duck
 ----
-### I'm OakenDuck, or Void. (he/him)
+*I'm OakenDuck, or Void. (he/him)
 
-* I am a 20 year old amateur programmer, from Houston, Texas.
-* Highly interested in comp sci, data structures and working with APIs.
+I am a 20 year old amateur programmer, from Houston, Texas.\
+Highly interested in comp sci, data structures and working with APIs.
 
 #### *current projects*
 * [Praestes](https://discord.com/voidoakenduck/Praestes), a discord bot, using [discord.py](https://github.com/Rapptz/discord.py).
