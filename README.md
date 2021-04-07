@@ -1,4 +1,4 @@
-## void* oaken_duck
+## voidoak_
 ----
 *I'm OakenDuck, or Void. (he/him)*
 
