@@ -3,13 +3,13 @@
 *I'm OakenDuck, or Void. (he/him)*
 
 I am a 20 year old amateur programmer, from Houston, Texas.\
-My goal in life is to broaden the influence of libre and foss in 1st world and developing societies.\
+My goal in life is to broaden the influence of libre technology and FOSS in the first world and in developing nations.\
 Highly interested in comp sci, data structures and working with APIs.
 
 ----
 <img src="https://avatars.githubusercontent.com/u/76021399?v=4" alt="my icon" width=300/>
 
-*yes, I know the code in my pfp makes no sense; but to be fair, it's not necessarily supposed to.*
+*before you ask, the code in my pfp is artistic license; don't take it literally.*
 
 ----
 
