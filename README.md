@@ -8,7 +8,7 @@ Highly interested in comp sci, data structures and working with APIs.
 
 ----
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=voidoak&show_icons=true&theme=dark&count_private=true)](https://github.com/voidoak/))
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=voidoak&show_icons=true&theme=highcontrast&count_private=true)](https://github.com/voidoak/))
 
 ----
 
