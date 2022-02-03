@@ -8,10 +8,6 @@ Highly interested in comp sci, data structures and working with APIs.
 
 ----
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=voidoak&show_icons=true&theme=highcontrast&count_private=true)](https://github.com/voidoak/)
-
-----
-
 #### *current projects*
 |||
 |:-:|:-:|
@@ -20,6 +16,12 @@ Highly interested in comp sci, data structures and working with APIs.
 |\_bjørn|discord bot using [sleepy-discord](https://github.com/yourWaifu/sleepy-discord). (postponed)|
 |GSpy (gypsy)|Google search wrapper/parser. (soon)|
 |[SubPub](https://github.com/voidoak/SubPub)|subscription/publish event system library for python|
+
+----
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=voidoak&show_icons=true&theme=highcontrast&count_private=true)](https://github.com/voidoak/)
+
+----
 
 ###### _socials_
 [<img src="assets/instagramtransparent.png" alt="instagram" width=30/>](https://instagram.com/void_ptr_?igshid=fu3o42p0rni1)
