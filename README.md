@@ -11,7 +11,8 @@ Highly interested in comp sci, data structures and working with APIs.
 #### *current projects*
 |||
 |:-:|:-:|
-|[Praestes](https://github.com/voidoakenduck/Praestes)|a discord bot, using [discord.py](https://github.com/Rapptz/discord.py).|
+|[Praestes](https://github.com/voidoakenduck/Praestes)|my discord bot, using [discord.py](https://github.com/Rapptz/discord.py).|
+|[Qubit](https://github.com/boolean-beans/qubit)|my discord server's moderation and gen. purpose bot, using [pycord](https://github.com/Pycord-Development/pycord)|
 |[SubPub](https://github.com/voidoak/SubPub)|subscription/publish event system library for python|
 |(as yet unnamed)|simple [FNN library](https://en.wikipedia.org/wiki/Feedforward_neural_network) in C++|
 |\_bjørn|discord bot using [sleepy-discord](https://github.com/yourWaifu/sleepy-discord). (postponed)|
