@@ -25,5 +25,4 @@ Highly interested in comp sci, data structures and working with APIs.
 ----
 
 ###### _socials_
-[<img src="assets/instagramtransparent.png" alt="instagram" width=30/>](https://instagram.com/void_ptr_?igshid=fu3o42p0rni1)
 [<img src="assets/discord.png" alt="my discord" width=30/>](https://discord.gg/5d7BzA6pWa)
