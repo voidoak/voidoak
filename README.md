@@ -2,7 +2,7 @@
 ----
 *I'm OakenDuck, or Void. (he/him)*
 
-I am a 20 year old amateur programmer, from Houston, Texas.\
+I am a 21 year old amateur programmer, from Houston, Texas.\
 My life goal is to broaden the influence of libre technology and FOSS in the world, and most especially in developing nations.\
 Highly interested in comp sci, data structures and working with APIs.
 
